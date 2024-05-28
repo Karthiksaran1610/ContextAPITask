@@ -16,5 +16,6 @@ body{
 .card{
     margin-bottom: 2rem;
     padding: 2rem;
-    box-shadow: 2px 2px 2px black
+    box-shadow: 2px 2px 2px rgb(224, 217, 217);
+    border-radius:30px; 
 }
